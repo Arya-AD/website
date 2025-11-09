@@ -7,3 +7,4 @@
 * Sean Goggins 
 * Eunice Eze
 * Keerthana Rajesh Kumar
+* Ariane Djeupang
